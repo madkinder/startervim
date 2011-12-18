@@ -13,6 +13,7 @@ source ~/.vimrc-defaults
 source ~/.vimrc-helpers
 source ~/.vimrc-au
 source ~/.vimrc-keymaps
+source ~/.vimrc-functions
 
 colorscheme torte
 
