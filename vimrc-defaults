@@ -16,7 +16,7 @@ call vundle#rc()
 filetype plugin indent on
 
 " Basic UI 
-set visualbell
+set novisualbell
 set shm=atIWswxrnmlf
 set ruler
 set title
