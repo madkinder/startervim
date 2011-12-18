@@ -14,7 +14,7 @@ source ~/.vimrc-helpers
 source ~/.vimrc-au
 source ~/.vimrc-keymaps
 
-colorscheme molokai
+colorscheme torte
 
 " Default bundles
 Bundle 'scrooloose/nerdtree'
