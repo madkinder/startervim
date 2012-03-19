@@ -34,3 +34,5 @@ Bundle 'scrooloose/syntastic'
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
+
+Bundle 'tpope/vim-surround'
