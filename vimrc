@@ -36,3 +36,11 @@ set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
 Bundle 'tpope/vim-surround'
+
+Bundle 'altercation/vim-colors-solarized'
+
+set t_Co=256
+let g:solarized_termcolors=256
+set background=dark
+colorscheme solarized
+
